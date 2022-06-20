@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.top-container{
+    background-color: #E8F9FD;
+    padding: 20px;
+    height: 650px;
+    text-align: center;
+    position: relative;
+}
+
+.moutain-div{
+    width: 100%;
+    height: 357px;
+    position: absolute;
+    bottom: 0;
+}
+
+h1{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    font-size: 5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 1;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+#bottom-cloud{
+    position: absolute;
+    right: 70%;
+}
+
+#cloud{
+    position: absolute;
+    right: 20%;
+    top: 30%;
+}
+
+
+.middle-container{
+    background-color: #F9D923;
+    border: 20px solid black;
+    margin-left: 260px;
+    width: 200px;
+    height: 200px;
+}
+
+.bottom-container{
+    background-color: #36AE7C;
+    border: 10px solid black;
+    margin-left: 500px;
+    width: 200px;
+    height: 200px;
+}
+
+.hello{
+    text-align: center;
+}
+
+.Heading{
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    margin: 0 auto 0 auto;
+}
+
+.nav_bar{
+    width: 100%;
+    background-color: #E8F9FD;
+    height: 39px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    position: absolute;
+    top: 0;
+    margin: 0 auto 0 auto;
+}
+
+li a{
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    margin-left: 40px;
+}
+
+hr{
+    margin: 50px auto 50px auto;
+    width: 15%;
+    border: dotted 10px gray;
+    border-bottom: 0px;
+}
+
+.hello img{
+    width: 15%;
+}
+
+ul li{
+    display: block;
+}
+
+.working{
+    width: 100%;
+    height: 260.19px;
+    display: flex;
+    background-color: #E8F9FD;
+}
+
+.text{
+    width: 45%;
+    font-size: 30px;
+    text-align: right;
+    height: 100%;
+    padding-top: 100px;
+    padding-right: 50px;
+    text-transform: uppercase;
+}
+
+.tryhackme{
+    position: absolute;
+    top: 40%;
+    left: 44%;
+}
